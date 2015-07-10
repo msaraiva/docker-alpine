@@ -17,4 +17,4 @@ msaraiva/erlang                18.0     afe36ddc5624   58 minutes ago    16.78 M
 
 ```
 
-To learn how to create minimal Erlang/Elixir docker images with Alpine Linux, see [Erlang/Elixir on Alpine Linux](https://github.com/msaraiva/alpine-erlang)
+See [Erlang/Elixir on Alpine Linux](https://github.com/msaraiva/alpine-erlang) to learn more about creating **Minimal Erlang/Elixir docker images with Alpine Linux**.
