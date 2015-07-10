@@ -5,6 +5,8 @@ This image contains the basic dependencies for running Elixir applications.
 
 Image size: **17.49 MB**
 
+See [Erlang/Elixir on Alpine Linux](https://github.com/msaraiva/alpine-erlang) to learn more about creating **minimal Erlang/Elixir docker images with Alpine Linux**.
+
 The following packages are pre-installed:
 
 - ncurses-libs

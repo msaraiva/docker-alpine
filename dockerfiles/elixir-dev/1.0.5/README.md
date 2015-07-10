@@ -5,6 +5,8 @@ Elixir is a dynamic, functional language designed for building scalable and main
 
 Image size: **48.12 MB**
 
+See [Erlang/Elixir on Alpine Linux](https://github.com/msaraiva/alpine-erlang) to learn more about creating **minimal Erlang/Elixir docker images with Alpine Linux**.
+
 > **Notice:** If you don't need to download dependencies or compile anything, you can use [msaraiva/elxir](https://registry.hub.docker.com/u/msaraiva/elixir/) which is much smaller.
 
 The following packages are pre-installed:

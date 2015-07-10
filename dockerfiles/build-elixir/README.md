@@ -5,6 +5,8 @@ Alpine Linux minimal environment for compiling Elixir.
 
 Image size: **45.09 MB**
 
+See [Erlang/Elixir on Alpine Linux](https://github.com/msaraiva/alpine-erlang) to learn more about creating **minimal Erlang/Elixir docker images with Alpine Linux**.
+
 The following packages are pre-installed:
 
 - sudo 

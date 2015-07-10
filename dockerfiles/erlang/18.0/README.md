@@ -5,7 +5,7 @@ Erlang & OTP minimal environment based on Alpine Linux.
 
 Image size: **16.78 MB**
 
-For more info and examples on creating minimal docker images, see ["Erlang/Elixir on Alpine Linux"](https://github.com/msaraiva/docker-alpine).
+See [Erlang/Elixir on Alpine Linux](https://github.com/msaraiva/alpine-erlang) to learn more about creating **minimal Erlang/Elixir docker images with Alpine Linux**.
 
 The following packages are pre-installed:
 
