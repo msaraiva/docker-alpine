@@ -1,8 +1,9 @@
-Erlang & OTP on Alpine Linux
+Erlang/OTP on Alpine Linux
 =====
 
-Erlang & OTP minimal environment based on Alpine Linux. 
+Erlang/OTP minimal environment. 
 
+Latest version: **18.0 (18.0.2 patch applied)**
 Image size: **16.78 MB**
 
 See [Erlang/Elixir on Alpine Linux](https://github.com/msaraiva/alpine-erlang) to learn more about creating **minimal Erlang/Elixir docker images with Alpine Linux**.
@@ -20,10 +21,12 @@ The following packages are pre-installed:
 ## Usage
 
 ```
-FROM msaraiva/erlang:18.0
+$ docker run --rm -it msaraiva/erlang erl
+Erlang/OTP 18 [erts-7.0.2] [source] [64-bit] [smp:4:4] [async-threads:10] [kernel-poll:false]
 
-RUN apk --update add elixir && rm -rf /var/cache/apk/*
-
-CMD ["/bin/sh"]
-
+Eshell V7.0.2  (abort with ^G)
+1> io:fwrite("Hello, world!\n").
+Hello, world!
+ok
+2> 
 ```
