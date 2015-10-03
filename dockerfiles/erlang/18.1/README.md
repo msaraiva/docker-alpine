@@ -1,10 +1,10 @@
 Erlang/OTP on Alpine Linux
 =====
 
-Erlang/OTP minimal environment. 
+Erlang/OTP minimal environment.
 
-- Latest version: **18.0 (18.0.2 patch applied)**
-- Image size: **16.78 MB**
+- Latest version: **18.1**
+- Image size: **17.13 MB**
 
 See [Erlang/Elixir on Alpine Linux](https://github.com/msaraiva/alpine-erlang) to learn more about creating **minimal Erlang/Elixir docker images with Alpine Linux**.
 
