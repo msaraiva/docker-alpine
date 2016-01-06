@@ -1,7 +1,7 @@
 Erlang/OTP on Alpine Linux
 =====
 
-Erlang/OTP minimal environment. 
+Erlang/OTP minimal environment.
 
 Latest version: **18.1**
 Image size: **18.3 MB**
@@ -16,7 +16,7 @@ The following packages are pre-installed:
 - erlang-compiler
 - erlang
 
-> **Notice:** In order to keep images as compact as possible, Erlang libraries for Alpine Linux are split into many different packages. The full list of Erlang packages available can be found [here](http://pkgs.alpinelinux.org/packages?package=erlang%25&repo=all&arch=x86_64)
+> **Notice:** In order to keep images as compact as possible, Erlang libraries for Alpine Linux are split into many different packages. The full list of Erlang packages available can be found [here](https://pkgs.alpinelinux.org/packages?name=erlang%25&repo=all&arch=x86_64&maintainer=all)
 
 ## Usage
 
@@ -28,5 +28,5 @@ Eshell V7.1  (abort with ^G)
 1> io:fwrite("Hello, world!\n").
 Hello, world!
 ok
-2> 
+2>
 ```
