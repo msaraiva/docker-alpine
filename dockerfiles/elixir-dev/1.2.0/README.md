@@ -7,7 +7,7 @@ Image size: **52.09 MB**
 
 See [Erlang/Elixir on Alpine Linux](https://github.com/msaraiva/alpine-erlang) to learn more about creating **minimal Erlang/Elixir docker images with Alpine Linux**.
 
-> **Notice:** If you don't need to download and compile dependencies (i.e. just using iex or similar), you can use [msaraiva/elxir](https://registry.hub.docker.com/u/msaraiva/elixir/) which is much smaller.
+> **Notice:** If you don't need to download and compile dependencies (i.e. just using iex or similar), you can use [msaraiva/elixir](https://registry.hub.docker.com/u/msaraiva/elixir/) which is much smaller.
 
 The following packages are pre-installed:
 
