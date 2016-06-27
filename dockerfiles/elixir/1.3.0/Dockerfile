@@ -1,4 +1,4 @@
-FROM msaraiva/erlang:18.1
+FROM msaraiva/erlang:18.3
 MAINTAINER Marlus Saraiva <marlus.saraiva@gmail.com>
 
 ENV ELIXIR_VERSION 1.3.0
